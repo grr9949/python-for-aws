@@ -1,3 +1,5 @@
+#Data types : The type of data which we use for our programme, mainly we use string (sequence of characters),
+#   integer (whole number), Float (decimal values), Boolean(True/False)
 
 def main():
     #String 

@@ -1,3 +1,5 @@
+"""Conditional Statements:  Defines how our programm should flow based on the conditions applied."""
+
 #Determine the appropriate AWS service based on the user requirement
 def main():
     #Define user requirement

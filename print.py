@@ -1,3 +1,5 @@
+#Print Statement: Prints whatever is given as input 
+
 #print string
 #print("Hello World!")
 #print integer

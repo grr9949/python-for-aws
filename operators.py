@@ -1,3 +1,5 @@
+"""Operators: Used to simplify operations like arthimetic, logical, assignment etc.,"""
+
 #Deterimine if the shipping list item is eligible for free shipping & discount
 
 def main():

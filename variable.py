@@ -1,5 +1,5 @@
 # Variables: When ever we want to use a value multiple times in a code we will give them as variable
-#            and will call those variables while executing code
+#            and will call those variables while executing code.
 
 
 """#Creating a variable for a string
